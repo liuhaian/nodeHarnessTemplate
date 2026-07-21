@@ -1,0 +1,16 @@
+README.md
+  h_fa9d20f3a60bf9 1-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0393eb694596efe1d351f206a539359d06bea16e",
+  "prompts": {},
+  "humans": {
+    "h_fa9d20f3a60bf9": {
+      "author": "Liu Haian <liuhaian@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
